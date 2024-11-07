@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\AdminPC\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0440\u0430\\\u0430\u043F\\\u043A\u043E\u0434\u0438\\lab_8.1_char\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5E8D255-6DB6-4110-8B5D-FDBB04E023E4}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\AdminPC\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0440\u0430\\\u0430\u043F\\\u043A\u043E\u0434\u0438\\lab_8.1_char\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5E8D255-6DB6-4110-8B5D-FDBB04E023E4}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C108297-CF0F-47D5-8323-E6F18727AF04}|lab_8.1_char\\lab_8.1_char.vcxproj|C:\\Users\\AdminPC\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0440\u0430\\\u0430\u043F\\\u043A\u043E\u0434\u0438\\lab_8.1_char\\lab_8.1_char\\8.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1C108297-CF0F-47D5-8323-E6F18727AF04}|lab_8.1_char\\lab_8.1_char.vcxproj|solutionrelative:lab_8.1_char\\8.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E8D255-6DB6-4110-8B5D-FDBB04E023E4}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\AdminPC\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0440\u0430\\\u0430\u043F\\\u043A\u043E\u0434\u0438\\lab_8.1_char\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5E8D255-6DB6-4110-8B5D-FDBB04E023E4}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cpp",
               "DocumentMoniker": "C:\\Users\\AdminPC\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0440\u0430\\\u0430\u043F\\\u043A\u043E\u0434\u0438\\lab_8.1_char\\UnitTest1\\UnitTest1.cpp",
               "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
               "ToolTip": "C:\\Users\\AdminPC\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0440\u0430\\\u0430\u043F\\\u043A\u043E\u0434\u0438\\lab_8.1_char\\UnitTest1\\UnitTest1.cpp",
               "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-30T13:37:44.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "8.1.cpp",
               "DocumentMoniker": "C:\\Users\\AdminPC\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0440\u0430\\\u0430\u043F\\\u043A\u043E\u0434\u0438\\lab_8.1_char\\lab_8.1_char\\8.1.cpp",
               "RelativeDocumentMoniker": "lab_8.1_char\\8.1.cpp",
               "ToolTip": "C:\\Users\\AdminPC\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0440\u0430\\\u0430\u043F\\\u043A\u043E\u0434\u0438\\lab_8.1_char\\lab_8.1_char\\8.1.cpp",
               "RelativeToolTip": "lab_8.1_char\\8.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-30T13:37:37.365Z",
               "EditorCaption": ""

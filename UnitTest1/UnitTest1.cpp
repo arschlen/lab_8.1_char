@@ -9,13 +9,17 @@ namespace UnitTest1
 	TEST_CLASS(UnitTest1)
 	{
 	public:
-		
-		TEST_METHOD(TestMethod1)
+
+		TEST_METHOD(TestCountSymbols)
 		{
-			char str4[] = "++ab--cd==";
-			char* result4 = ReplacePairs(str4);
-			Assert::AreEqual("****ab****cd****", result4);
-			delete[] result4;
+			char testStr1[] = "++--==";
+			char testStr2[] = "+-=";
+			char testStr3[] = "abc";
+
+			// Перевірка підрахунку символів у рядку з різними символами
+			Assert::AreEqual(6, CountSymbols(testStr1));
+			Assert::AreEqual(3, CountSymbols(testStr2));
+			Assert::AreEqual(0, CountSymbols(testStr3));
 		}
 	};
 }

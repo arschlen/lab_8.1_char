@@ -18,23 +18,23 @@ int CountSymbols(char* s) {
 
 char* ReplacePairs(char* s) {
     char* t = new char[strlen(s) * 2]; // Виділення пам'яті з запасом
-    int pos1 = 0, pos2 = 0;
+    int pos1 = 0;
     t[0] = '\0';
 
     while (s[pos1] != '\0') {
         if ((s[pos1] == '+' && s[pos1 + 1] == '+') ||
             (s[pos1] == '-' && s[pos1 + 1] == '-') ||
             (s[pos1] == '=' && s[pos1 + 1] == '=')) {
-            strcat(t, "****");
+            strcat_s(t, strlen(s) * 2, "****");
             pos1 += 2;
         }
         else {
-            strncat(t, &s[pos1], 1);
+            strncat_s(t, strlen(s) * 2, &s[pos1], 1);
             pos1++;
         }
     }
 
-    strcpy(s, t);
+    strcpy_s(s, strlen(t) + 1, t);
     return t;
 }
 
